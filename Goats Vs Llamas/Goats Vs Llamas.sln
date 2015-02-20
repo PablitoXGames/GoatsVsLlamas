@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{9771DFE2-EF5D-1E1D-4655-9C455E5C5AE1}") = "Goats Vs Llamas", "Assembly-CSharp.csproj", "{94684420-F0E3-38C0-9F9A-B98A161A454A}"
 EndProject
+Project("{9771DFE2-EF5D-1E1D-4655-9C455E5C5AE1}") = "Goats Vs Llamas", "Assembly-CSharp-Editor.csproj", "{C9AF9FEA-F8D1-21EE-ECE5-E8C320620526}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,11 +15,15 @@ Global
 		{94684420-F0E3-38C0-9F9A-B98A161A454A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94684420-F0E3-38C0-9F9A-B98A161A454A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94684420-F0E3-38C0-9F9A-B98A161A454A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AF9FEA-F8D1-21EE-ECE5-E8C320620526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AF9FEA-F8D1-21EE-ECE5-E8C320620526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AF9FEA-F8D1-21EE-ECE5-E8C320620526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AF9FEA-F8D1-21EE-ECE5-E8C320620526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-		GlobalSection(MonoDevelopProperties) = preSolution
+												GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
